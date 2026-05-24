@@ -1,0 +1,21 @@
+# Keystore — NUNCA commitar
+*.keystore
+*.jks
+*.p12
+
+# Propriedades locais
+local.properties
+
+# Build outputs
+build/
+app/build/
+.gradle/
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio
+*.hprof
+.DS_Store
