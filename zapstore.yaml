@@ -1,0 +1,24 @@
+repository: https://github.com/lucianocasalunga/libermedia-twa
+
+release_source: ./app/build/outputs/apk/release/app-release.apk
+
+name: LiberMedia
+summary: Cliente Nostr descentralizado — rede social, Lightning e muito mais
+description: |
+  LiberMedia é um cliente Nostr focado em experiência mobile, construído pela LiberNet.
+
+  Funcionalidades:
+  - Feed algorítmico com Web of Trust (WoT)
+  - Reels — vídeos curtos estilo TikTok
+  - Mensageiro integrado (DMs via Nostr)
+  - Pagamentos Lightning via NWC (Nostr Wallet Connect)
+  - ZAPs — gorjetas em Bitcoin direto nos posts
+  - Modo visitante — sem precisar de conta
+  - Temas: Abismo (dark), Neve (light) e mais
+
+  Baseado em tecnologia aberta: Nostr, Bitcoin, Lightning Network.
+
+tags: [nostr, social, bitcoin, lightning, brasil, português]
+license: MIT
+website: https://media.libernet.app
+icon: ./store_icon.png
