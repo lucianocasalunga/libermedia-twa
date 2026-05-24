@@ -1,4 +1,5 @@
 repository: https://github.com/lucianocasalunga/libermedia-twa
+pubkey: npub1s7x7720c6jf8e2vgzeuaeu6tmrh7fzr8hqcrhwcjzkny6h2exp4qqyz53y
 
 release_source: ./app/build/outputs/apk/release/app-release.apk
 
